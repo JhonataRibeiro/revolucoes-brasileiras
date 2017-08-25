@@ -1,0 +1,449 @@
+{
+    "revoltas": [{
+            "title": "Aclamação de Amador Bueno",
+            "mainDescription": "Ocorreu na província de São Paulo, este movimento pretendia ser de caráter separatista, logo após a restauração bragantina que passou a ser justamente sua causa principal. Diante do quadro de inseguração e rumores apresentado no contexto histórico, um grupo liderado pelos irmãos Rendon de Quevedo aconteceu a aclamação de um novo rei: Amador Bueno, grande fazendeiro, capitão-mor, ouvidor e irmão de bandeirantes. O termo de aclamação foi assinado em 1 de abril de 1641. Entre os idealizadores do levante também estavam nobres espanhóis no Paraguai. Tudo indica que os separatistas espanhóis desejavam tornar a província de São Paulo parte das colônias espanholas platinas. No entanto, Amador Bueno, que era filho de pai espanhol, rejeitou a proposta e jurou fidelidade a D. João IV de Bragança. Amador Bueno se recusou a assumir o poder, e por não querer ser rei foi perseguido pelos paulistas e teve que se refugiar no Mosteiro de São Bento no mesmo dia em que foi assinado o termo de sua aclamação. O movimento não trouxe consequências mais sérias, pois seria facilmente abafado pelos portugueses dada a condição ainda periférica de São Paulo no contexto colonial. Dias depois os paulistas juraram fidelidade à D. joão IV.",
+            "city": "Vila de São Paulo",
+            "historicalContext": "A formação da União Ibérica havia favorecido a atividade de contrabando em toda região da bacia do Prata trazendo lucro ao bandeirantes e comerciantes paulistas. Hávia o temor de que com a restauração portuguesa, essas atividades fossem proibidas, o que geraria um obstáculo à tentativa de ampliação das atividades comerciais até Buenos Aires. A partir de São Paulo partiam as bandeiras de preação, ou apresamento, no intuito de escravizar índios que se encontravam nas missões jesuíticas. O tráfico negreiro era uma importante fonte de renda para os Portugueses, por isso era natural que a coroa dificultasse as atividades de aprisionamento índigena realizada pelos paulistas, proibindo também o contrabando na região Platina.",
+            "startYear": "1641",
+            "endYear": "",
+            "startDate": "",
+            "endDate": "",
+            "tags": [
+                "Revolta Nativista"
+            ],
+            "leaders": [
+                "Amador Bueno",
+                "irmãos Rendon de Quevedo"
+            ],
+            "consequences": [],
+            "medias": [{
+                    "videos": [{
+                        "src": "https://www.youtube.com/watch?v=3mirPTK1NNc",
+                        "description": "Video recomendado sobre a revolta de Amador Bueno"
+                    }]
+                },
+                {
+                    "images": [{
+                            "src": "amadorBueno.png",
+                            "description": "Retrato do Amador Bueno"
+                        },
+                        {
+                            "src": "d_joao_IV.jpg",
+                            "description": "Retrato de D. João IV"
+                        },
+                        {
+                            "src": "revolta_de_amador_bueno.jpg",
+                            "description": "Revolta de Amador Bueno"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "A revolta da cachaça",
+            "mainDescription": "O nobre Salvador Correia de Sá e Benevides, governador do rio de janeiro em 1960, criou um imposto que incidia sobre a posse de imóveis com a finalidade de manter uma forte guarda local sob seu comando. Durante a apreciação do projeto de lei pela Câmara e pelo Senado foi acrescida a lei a isenção desse imposto às ordens religiosas dos beneditos, dos jesuítas e das carmelitas. Com alternativa para essa perda de receita, foi aprovada a cobrança de impostos sobre a venda de carne e cachaça o que atingia a população como um todo. Com a elite propietária e o povo insatisfeitos o governador se ausenta da província do Rio de Janeiro deixando em seu lugar um primo, Tomé de Alvarenga, e um outro parente na presidência da Câmara Municipal, uma verdadeira familiocracia. Em novembro de 1960, aproveitando-se da ausência de Sá e Benevide, Jerônimo Barbalho Bezerra inicia uma revolta na capital carioca. Filho de um famoso líder da resistência na luta contra os holandeses na Bahia, acabou por conseguir desistituir o governador Tomé de Alvarenga e prendê-lo na fortaleza de Santa Cruz, marcou eleições para a Câmara Municipal enquanto os líderes da revolta escolheram seu imão Agostinho Bezerra para o cargo de governador. Sá e Benevides já havia governado a capitania por duas vezes, ele também era mal visto por ser aliado dos jesuítas defendendo a liberdade dos indígenas, o que era uma opnião contrária a da maioria dos colonos. Dessa forma muitos colaboradores do governo Sá e Benevides foram extraditados para Portugal. Após alguns erros cometidos por Agostinho Bezerra ao tentar manobras conciliatórias, a Câmara Municipal o desistituiu do cargo e assumiu o governo da cidade em feveiro de 1961. Dois meses depois Sá e Benevides volta ao Rio de Janeiro com a ajuda de reforços militares vindos de Portugal. A cidade foi invadida de surpresa e o antigo governador reconquistou o poder pela terceira vez.",
+            "city": "Rio de janeiro",
+            "historicalContext": "O rio de janeiro em 1960 era governado pelo poderoso nobre de Salvador Correia de Sá e Benevides, que apesar da origem materna espanhola possuía um grande prestígio junto a coroa portuguesa. Seus poderes, por exemplo, não eram subordinados ao governador geral estabelecido na Bahia.",
+            "startYear": "1660",
+            "endYear": "1661",
+            "startDate": "",
+            "endDate": "",
+            "tags": [
+                "Revolta Nativista"
+            ],
+            "leaders": [
+                "Salvador Correia de Sá e Benevides",
+                "Jerônimo Barbalho Bezerra"
+            ],
+            "consequences": [],
+            "reasons": [
+                "o fato do governador praticar um tipo de nepotismo escancarado",
+                "Adotar atitudes tiranas",
+                "Cometer Peculato",
+                "Manter relações obscuras com donos",
+                "A pesada carga tributária por ele cobrada"
+            ],
+            "medias": [{
+                    "videos": [{
+                        "src": "",
+                        "description": ""
+                    }]
+                },
+                {
+                    "images": [{
+                            "src": "revolta_da_cachaca.png",
+                            "description": "Revolta da cachaça"
+                        },
+                        {
+                            "src": "salvador_correia_de_sa.jpg",
+                            "description": "Salvador Correia de Sá - Governador da Capitania do Rio de Janeiro em 1660"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "A revolta contra os Xumbergas",
+            "mainDescription": "A revolta embora tenha contado com o entusiasmo da população ela foi liderada pela elite agrária local e teve como principais líderes João Fernandes Vieira e André de Barros Rego, que inclusive se apresentavam como os verdadeiros combatentes dos holandeses em Pernambuco. A situação do governador, que já era ruim, ficou ainda pior devido a uma curiosa epidemia de bexigas, doença que hoje temo nome de varíola. Para a população foram duas as causas de origem mística da epidemia, uma seria a passagem de cometas à época, enquanto a outra seria as más energias oriundas do governador bigodudo. Em 1666, após sua deposição, Xumbergas é preso na fortaleza do Brum, em Recife, sendo deportado para Lisboa. Enquanto isso, em Pernambuco, forma-se uma Junta de Governo composta por três representantes da aristocracia rural, dentre eles André de Barros Rego que assumiu o governo com amplo apoio popular. Portugal não retaliou os revoltosos pernambucanos e esse episódio acabou por acirrar mais ainda as contradições existentes entre os fazendeiros de Olinda e os comerciantes portugueses de Recife.",
+            "city": "Pernambuco",
+            "historicalContext": "O governador de Pernambuco, Jerônimo de Mendonça Furtado, foi apelidado pelo povo pernambucano de Xumbergas devido seu vasto bigode que fazia lembrar o oficial alemão Armand Friedrich von Schomberg, que ajudou na libertação de Portugal da Espanha em 1640. Essa revolta também ficou conhecida como a Conjuração do Nosso Pai, isso devido a prisão do governador durante a procissão do Nosso Pai. Seu governo, de 1664 até 1666, teve a marca de um despotismo exacerbado tendo sido acusado pelas elites agrárias pernambucanas de vários crimes. Dessa forma, a Câmara Municipal de Olinda enviou uma representação contra o governador denunciado suas ações criminosas.",
+            "startYear": "1666",
+            "endYear": "",
+            "startDate": "",
+            "endDate": "",
+            "tags": [
+                "Revolta Nativista"
+            ],
+            "leaders": [
+                "Jerônimo de Mendonça"
+            ],
+            "consequences": [],
+            "reasons": [
+                "O roubo cometido por Xumbergas de um quinhão da receita do donativo da Rainha da Inglaterra e paz da Holanda",
+                "A criação de um imposto por Xumbergas para a satisfação do dote de D. Catarina de Bragança, irmã do monarca português casada com Carlos II da Inglaterra."
+            ],
+            "medias": [{
+                    "videos": [{
+                        "src": "",
+                        "description": ""
+                    }]
+                },
+                {
+                    "images": [{
+                        "src": "revolta_xumbergas.jpg",
+                        "description": "Porto do Recife, no século XVII, foco da revolta de 'Nosso Pai' ou contra xumbergas"
+                    }]
+                }
+            ]
+        },
+        {
+            "title": "Revolta de Beckman",
+            "mainDescription": "Ocorreu no maranhão em 1684. Liderada por Manuel Beckman, teve como causa principal a falta de mãe-de-obra escrava, e os altos preços das mercadorias comercializadas pela Companhia Geral de Comércio do Estado do Maranhão, criada pela Coroa Portuguesa em 1682.",
+            "city": "Maranhão",
+            "historicalContext": "A região do maranhão, até meados do século XVII, foi considerada dos mais importantes centros econômicos da sociedade colonial. Ao mesmo tempo em que fornecia uma excelente localização geográfica, a região também despontou como um dos maiores centros de produção de açúcar e algodão da colônia.",
+            "startYear": "1682",
+            "endYear": "1684",
+            "startDate": "",
+            "endDate": "",
+            "tags": [
+                "Revolta Nativista"
+            ],
+            "leaders": [
+                "Irmãos Manuel e Tomas Beckman",
+                "Jesuítas",
+                "índios",
+                "escravos"
+            ],
+            "consequences": [],
+            "medias": [{
+                    "videos": [{
+                        "src": "https://www.youtube.com/watch?v=pEJCLlgOklU",
+                        "description": "Aula divertida sobre Revolta de beckman"
+                    }]
+                },
+                {
+                    "images": [{
+                        "src": "revolta_de_beckman.jpg",
+                        "description": "Revolta de Beckman"
+                    }]
+                }
+            ]
+        },
+        {
+            "title": "Guerra dos emboabas",
+            "mainDescription": "Confronto travado de 1707 a 1709 pelo direito de exploração das recém-descobertas jazidas de ouro na região do atual estado de Minas Gerais",
+            "city": "Atual Minas Gerais",
+            "startYear": "1708",
+            "endYear": "1709",
+            "historicalContext": "A descoberta de ouro na atual região de minas gerais, atraiu milhares de pessoas que fervilhavam a beira dos rios e caminhos, nos sertões distantes e inóspitos. Os Bandeirantes se achavam com maiores direitos sobre o ouro das minas, seja por eles terem sido os descobridores do lugar, seja por aquela região fazer parte da Capitania de São Vicente, seja pela debilidade recente mostrada pela coroa portuguesa ao ter de recorrer à ajuda dos bandeirantes paulistas para vencer a Guerra dos Palmares e a confederação dos Cariris.",
+            "startDate": "",
+            "endDate": "",
+            "tags": [
+                "Revolta Nativista"
+            ],
+            "leaders": [
+                "Vicentinos ou Bandeirantes Paulistas",
+                "Forasteiros (Portugueses provenientes da Europa e migrantes das demais partes do Brasil, principalmente Nordeste)",
+                "Manuel Nunes Viana(Lider dos emboabas)"
+            ],
+            "consequences": [
+                "Os Paulistas foram derrotados e a Coroa Portuguesa criou a capitania de São Paulo e Minas Gerais",
+                "A cobrança do quinto foi regulamentada",
+                "A coroa portuguesa, após acabar com o conflito e pacificar a região, assumiu a exploração de ouro na região das minas gerais",
+                "Os bandeirantes paulistas, expulsos da região das Minas Gerais, foram procurar ouro nas regiões de Goiás e Mato Grosso. Encontraram nessas áreas novas minas para explorar"
+            ],
+            "medias": [{
+                    "videos": [{
+                            "src": "https://www.youtube.com/watch?v=XnmxtE6fdYc",
+                            "description": "Video relacionado ao garimpo e a gurra dos emboabas"
+                        },
+                        {
+                            "src": "https://www.youtube.com/watch?v=1hM9wg1waYU",
+                            "description": "Aula divertida sobre a guerra dos emboabas"
+                        }
+                    ]
+                },
+                {
+                    "images": [{
+                            "src": "guerra_emboabas.png",
+                            "description": "guerra dos emboabas"
+                        },
+                        {
+                            "src": "https://www.youtube.com/watch?v=1hM9wg1waYU",
+                            "description": "Aula divertida sobre a guerra dos emboabas"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Guerra dos mascates",
+            "mainDescription": "Confronto entre os senhores de terras e de engenhos pernambucanos, concentrados em Olinda, e os comerciantes reinóis(portugueses da metrópole) do Recife, chamados pejorativamente de mascates",
+            "city": "Pernambuco",
+            "historicalContext": "O Brasil foi invadido pela holanda por duas vezes. A primeira invasão ocorreu no ano de 1624 em salvador, os holandeses ficaram no controle da cidade por um ano quando foram expulsos. Em 1630 os holandeses voltaram a invadir o Brasil, dessa vez, o Pernambuco foi invadido. A partir de 1654, a expulsão definitiva dos holandeses de Pernambuco provocou uma grande mudança no cenário econômico daquela região. Os grandes produtores de açúcar que anteriormente usufruíram dos investimentos holandeses, agora viviam uma crise decorrente da baixa do açúcar no mercado internacional e a concorrência do açúcar produzido nas Antilhas. Contudo, esses senhores de engenho ainda possuíam o controle do cenário político local por meio do poder exercido na câmara municipal de Olinda.",
+            "startYear": "1710",
+            "endYear": "1710",
+            "startDate": "",
+            "endDate": "",
+            "tags": [
+                "Revolta Nativista"
+            ],
+            "leaders": [
+                "Vicentinos ou Bandeirantes Paulistas",
+                "Forasteiros (Portugueses provenientes da Europa e migrantes das demais partes do Brasil, principalmente Nordeste)",
+                "Manuel Nunes Viana(Lider dos emboabas)"
+            ],
+            "consequences": [
+                "Os Paulistas foram derrotados e a Coroa Portuguesa criou a capitania de São Paulo e Minas Gerais",
+                "A cobrança do quinto foi regulamentada",
+                "A coroa portuguesa, após acabar com o conflito e pacificar a região, assumiu a exploração de ouro na região das minas gerais",
+                "Os bandeirantes paulistas, expulsos da região das Minas Gerais, foram procurar ouro nas regiões de Goiás e Mato Grosso. Encontraram nessas áreas novas minas para explorar"
+            ],
+            "medias": [{
+                    "videos": [{
+                            "src": "https://www.youtube.com/watch?v=XnmxtE6fdYc",
+                            "description": "Video relacionado ao garimpo e a gurra dos emboabas"
+                        },
+                        {
+                            "src": "https://www.youtube.com/watch?v=1hM9wg1waYU",
+                            "description": "Aula divertida sobre a guerra dos emboabas"
+                        }
+                    ]
+                },
+                {
+                    "images": [{
+                            "src": "revolta_mascates.jpg",
+                            "description": "Guerra dos mascates"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "A revolta do sal",
+            "mainDescription": "A coroa portuguesa tratava a questão da venda do sal na colônia brasileira também como monopólio régio. O comércio estava nas mãos de poucas famílias portuguesas tanto no Brasil quanto na metrópole. No Brasil embora a extração de sal fosse proibida havia uma extração clandestina e um comércio ilegal. A população era a grande prejudicada muitas vezes tendo que se alimentar sem a presença do sal em suas refeições devido à escassez do produto e ao preço elevado. Quando da descoberta das primeiras jazidas de ouro nas Minas Gerais, a pressão do monopólio e o aumento do estoque elevaram o valor do sal. No Rio de Janeiro a Câmara da Municipal chegou a protestar junto a Corte, mas esta não tomou nenhuma providência.No ano de 1710, em São Paulo a situação de exploração atingiu seu ápice. Diante disso um grande fazendeiro decidiu, com forte apoio popular, invadir e tomar de assalto a cidade de Santos, além de invadirem os armazéns que guardavam o sal. O líder do movimento era o fazendeiro Bartolomeu Fernandes de Faria. Suas propriedades eram imensas e ele possuía centenas de escravos. Seu bando formado por negros, índios e capangas se apropriaram de uma grande quantidade de sal que foi levado para a vila de São Paulo e ordenou aos comerciantes que vendessem o sal a preços mais em conta. O rei de Portugal, D. João V, determinou a prisão do fazendeiro paulista responsável pelo ataque à Santos. No entanto este tinha a população a seu lado e conseguiu resistir bravamente em sua fazenda. Somente em 1722 a prisão de Bartolomeu foi efetuada pelo coronel Luiz Antônio de Sá Queiroga, governador militar de Santos. O fazendeiro foi enviado para o Rio de Janeiro para ser julgado, mas morreu antes vítima de varíola.",
+            "city": "São Paulo",
+            "historicalContext": "",
+            "startYear": "1710",
+            "endYear": "",
+            "startDate": "",
+            "endDate": "",
+            "tags": [
+                "Revolta Nativista"
+            ],
+            "leaders": [
+                "Bartolomeu Fernandes de Faria."
+            ],
+            "consequences": [],
+            "medias": [{
+                    "videos": [{
+                        "src": "",
+                        "description": ""
+                    }]
+                },
+                {
+                    "images": [{
+                        "src": "revolta_sal.png",
+                        "description": ""
+                    }]
+                }
+            ]
+        },
+        {
+            "title": "Os motins do Maneta",
+            "mainDescription": "Trata-se na verdade de dois motins ocorridos em outubro e novembro de 1711 na capital da colônia, Salvador na época. O movimento recebe esse nome, pois João Figueiredo Costa, alcunha Maneta, foi o líder dos dois violentos tumultos embora estudos recentes coloquem em dúvida sua participação no segundo motim.",
+            "city": "Salvador",
+            "historicalContext": "",
+            "startYear": "1711",
+            "endYear": "",
+            "startDate": "",
+            "endDate": "",
+            "tags": [
+                "Revolta Nativista"
+            ],
+            "leaders": [
+                "João Figueiredo Costa"
+            ],
+            "consequences": [],
+            "medias": [{
+                    "videos": [{
+                        "src": "",
+                        "description": ""
+                    }]
+                },
+                {
+                    "images": [{
+                        "src": "motin_maneta.png",
+                        "description": "Motins do maneta"
+                    }]
+                }
+            ]
+        },
+        {
+            "title": "A revolta de Vila Rica",
+            "mainDescription": "Também conhecida como revolta de Felipe dos Santos, ocorreu em 1720, na região das Minas Gerais. Esta revolta durou quase um mês, os revoltosos chegaram a ocupar a cidade de vila Rica de armas em punho. Diante da situação, o governador, Conde de Assumar, negociou com os revoltosos. O governador exigiu que os revoltosos abandonassem as armas. Após acalmar os revoltosos, o conde ordenou ás tropas para que invadissem vila rica. Os líderes da revolta foram presos, e suas casas foram incendiadas. Felipe dos Santos considerado o lider foi condenado à morte por enforcamento.",
+            "city": "",
+            "historicalContext": "No século XVIII a região de Minas Gerais produzia muito ouro. A coroa portuguesa cobrava muitos impostos dessa região. O quinto era um desses impostos, onde a quinta parte de todo ouro extraído era da coroa, ou seja, 20% ficava ia para portugal. A cobrança desse imposto ocorria nas casas de fundição, era proibida a circulação de ouro em pó ou em pepitas.",
+            "startYear": "1720",
+            "endYear": "",
+            "startDate": "",
+            "endDate": "",
+            "tags": [
+                "Revolta Nativista"
+            ],
+            "leaders": [
+                "Felipe dos Santos Freire"
+            ],
+            "consequences": [
+
+            ],
+            "medias": [{
+                    "videos": [{
+                            "src": "",
+                            "description": ""
+                        },
+                        {
+                            "src": "",
+                            "description": ""
+                        }
+                    ]
+                },
+                {
+                    "images": [{
+                            "src": "revolta_felipe_santos.jpg",
+                            "description": "Revolta Nativista"
+                        },
+                        {
+                            "src": "",
+                            "description": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "A revolta do terço velho",
+            "mainDescription": "Revolta iniciada em 10 de maio de 1728 pelos soldados do terço velho(terço era como se chamava um corpo de tropa composto por 10 companhias de 250 homens). Os soldados se  levantaram contra o ouvidor do crime: André lobato Lobo, que segundo os recrutas, era extremamente rigoroso na aplicação de punições aos delitos cometidos pela tropa.",
+            "city": "",
+            "historicalContext": "Os soldados do terço velho, estavão insatisfeitos com algumas situações: soldo baixo, pagamentos irregulares,",
+            "startYear": "1728",
+            "endYear": "",
+            "startDate": "10/05/1728",
+            "endDate": "",
+            "tags": [
+                "Revolta Nativista"
+            ],
+            "leaders": [
+                "Soldados do terço velho"
+            ],
+            "consequences": [],
+            "medias": [{
+                    "videos": [{
+                        "src": "",
+                        "description": ""
+                    }]
+                },
+                {
+                    "images": [{
+                        "src": "motim_do_terco_velho.jpg",
+                        "description": "Motin do terço velho"
+                    }]
+                }
+            ]
+        },
+        {
+            "title": "Inconfidência Mineira (Conjuração mineira)",
+            "mainDescription": "Movimento de caráter separatista que ocorreu na cidade de Vila Rica em Minas Gerais no ano de 1789. Teve como principal causa os altos impostos cobrados sobre o ouro explorado nas regiões das minas, e a criação da derrama. O principal objetivo era libertar o Brasil do domínio português. O leva da conjuração era: Liberdade ainda que tardia",
+            "city": "",
+            "historicalContext": "No final do século XVIII, o Brasil ainda era colônia de Portugal e sofria com os abusos políticos e com a cobrança de altas taxas e impostos. Além disso, a metrópole havia decretado uma série de leis que prejudicavam o desenvolvimento industrial e comercial do Brasil. No ano de 1785, por exemplo, Portugal decretou uma lei que proibia o funcionamento de indústrias fabris em território brasileiro.",
+            "startYear": "1789",
+            "endYear": "",
+            "startDate": "",
+            "endDate": "",
+            "tags": [
+                "Revolta Emancipacionista"
+            ],
+            "leaders": [
+                "Joaquim José da Silva Xavier (tiradentes) - Alferes, minerador e tropeiro",
+                "Claudio Manuel da Costa - poeta",
+                "Inácio José de Alvarenga Peixoto - advogado",
+                "Tomás antonio Gonzaga - poeta",
+                "Francisco de Paula Freire de Andrade - coronel",
+                "Carlos Correia - padre",
+                "Oliveira Rolim - padre",
+                "Francisco Antônio de Oliveira Lopes - coronel"
+            ],
+            "consequences": [],
+            "medias": [{
+                "videos": [{
+                    "src": "",
+                    "description": ""
+                }]
+            },
+                {
+                    "images": [{
+                        "src": "inconfidencia_mineira.jpg",
+                        "description": "Bandeira da incofidência mineira"
+                    },
+                        {
+                            "src": "tiradentes_forca.jpg",
+                            "description": "Condenação de Tiradentes"
+                        }]
+                }
+            ]
+        },
+        {
+            "title": "Conjuração Baiana (Revolta dos alfaiates)",
+            "mainDescription": "Movimento de caráter separatista que ocorreu na Bahia no ano de 1798. Teve participação de pessoas do povo, ex-escravos, médicos, sapateiros, alfaiates, padres, entre outros segmentos sociais. Teve como causa principal a exploração de portugal, principalmente com relação a cobrança elevada de tributos. Defendiam a implantação de um sistema republicano e liberdade comercial. Após vários saques e motins, a rebelião foi contida pelas forças do governo, sendo que vários revoltosos foram presos, julgados e condenados.",
+            "city": "",
+            "historicalContext": "No final do século XVIII, países do mundo inteiro passavam por um intenso processo de transição política, motivados pelo ideal de liberdade, igualdade e fraternidade disseminado pela Revolução Francesa, que ocorreu em 1789. Quando Salvador deixou de ser a capital brasileira, acabou perdendo boa parte dos investimentos da Coroa e passou a ter papel secundário diante da nova capital, o Rio de Janeiro. A população baiana acabou sofrendo com a crise econômica do estado. A violência aumentava cada vez mais com o constante saqueamento de propriedades privadas e mercadorias.",
+            "startYear": "1789",
+            "endYear": "",
+            "startDate": "",
+            "endDate": "",
+            "tags": [
+                "Revolta Emancipacionista"
+            ],
+            "leaders": [
+                "Cipriano Barata (Médico)",
+                "Luís Gonzaga das Virgens (Soldado)",
+                "Manuel Faltisno dos Santos Lira (Alfaiate)",
+                "João de Deus do Nascimento"
+            ],
+            "consequences": [],
+            "medias": [{
+                "videos": [{
+                    "src": "",
+                    "description": ""
+                }]
+            },
+                {
+                    "images": [{
+                        "src": "conjuracao_baiana.jpg",
+                        "description": "Conjuração Baiana"
+                    }]
+                }
+            ]
+        }
+    ]
+}
