@@ -1,5 +1,4 @@
-{
-    "revoltas": [{
+[{
             "title": "Aclamação de Amador Bueno",
             "mainDescription": "Ocorreu na província de São Paulo, este movimento pretendia ser de caráter separatista, logo após a restauração bragantina que passou a ser justamente sua causa principal. Diante do quadro de inseguração e rumores apresentado no contexto histórico, um grupo liderado pelos irmãos Rendon de Quevedo aconteceu a aclamação de um novo rei: Amador Bueno, grande fazendeiro, capitão-mor, ouvidor e irmão de bandeirantes. O termo de aclamação foi assinado em 1 de abril de 1641. Entre os idealizadores do levante também estavam nobres espanhóis no Paraguai. Tudo indica que os separatistas espanhóis desejavam tornar a província de São Paulo parte das colônias espanholas platinas. No entanto, Amador Bueno, que era filho de pai espanhol, rejeitou a proposta e jurou fidelidade a D. João IV de Bragança. Amador Bueno se recusou a assumir o poder, e por não querer ser rei foi perseguido pelos paulistas e teve que se refugiar no Mosteiro de São Bento no mesmo dia em que foi assinado o termo de sua aclamação. O movimento não trouxe consequências mais sérias, pois seria facilmente abafado pelos portugueses dada a condição ainda periférica de São Paulo no contexto colonial. Dias depois os paulistas juraram fidelidade à D. joão IV.",
             "city": "Vila de São Paulo",
@@ -446,4 +445,3 @@
             ]
         }
     ]
-}
